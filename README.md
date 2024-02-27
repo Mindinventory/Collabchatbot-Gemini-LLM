@@ -18,7 +18,11 @@ Welcome to CollabChatbot – your personal assistant designed to streamline acce
 - **Skills:** Effortlessly identify specific skill sets of your team members. 💼🔍
 - **Recommendations:** Receive smart team-building suggestions based on skills and occupancy. 🤝
 
-https://github.com/siddhant-mi/collab-chatbot/assets/77489054/76ba61b7-ac69-4027-b363-2174592b6020
+
+
+https://github.com/Mindinventory/Collabchatbot-Gemini-LLM/assets/156774622/683c3412-dff8-498c-82ec-0b604b8de70f
+
+
 
 
 ### Advanced Technology Integration 🤖
@@ -46,6 +50,10 @@ Welcome to our awesome project! 🎉 Follow these simple steps to get everything
 2. **Install Dependencies:**
     
     ```bash
+
+Uploading collabchatbot_demo_(1).mp4…
+
+
     source venv/bin/activate  # activate virtual environment (Linux/Mac)
     pip install -r requirements.txt
     ```
