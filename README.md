@@ -50,10 +50,6 @@ Welcome to our awesome project! 🎉 Follow these simple steps to get everything
 2. **Install Dependencies:**
     
     ```bash
-
-Uploading collabchatbot_demo_(1).mp4…
-
-
     source venv/bin/activate  # activate virtual environment (Linux/Mac)
     pip install -r requirements.txt
     ```
